@@ -62,7 +62,7 @@ root = Tk()
 root.protocol("WM_DELETE_WINDOW", on_close)
 if HAT == 'SH':
     root.title("SenseHAT colour mixer")
-elif HAT = 'UH':
+elif HAT == 'UH':
     root.title("UnicornHAT colour mixer")
 red_var = IntVar()
 green_var = IntVar()
