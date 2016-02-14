@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Name=SenseSlider
+Name=HATColSlider
 Exec=/usr/bin/python3 /home/pi/HATColourSlider/HATColourSlider.py
 Terminal=false
 Categories=Application
